@@ -18,12 +18,12 @@ I’m passionate about building smart, scalable, and impactful solutions using A
 
 ## 🚀 Projects
 
-| Project | Description | Demo |
+| Project | Description |
 |--------|-------------|------|
-| **[AutoML](https://oam-b.me/AutoML/)** | Automated ML platform with dataset insights and modeling | 🔗 |
-| **[InsightDocs](https://oam-b.me/InsightDocs/)** | Document Q&A system for PDFs, Word, and more | 🔗 |
-| **[QueryStream](https://oam-b.me/QueryStream/)** | Smart query generator for databases | 🔗 |
-| **[Documentor](https://oam-b.me/Documentor/)** | AI-powered documentation assistant for software | 🔗 |
+| **[AutoML](https://oam-b.me/AutoML/)** | Automated ML platform with dataset insights and modeling | 
+| **[InsightDocs](https://oam-b.me/InsightDocs/)** | Document Q&A system for PDFs, Word, and more | 
+| **[QueryStream](https://oam-b.me/QueryStream/)** | Smart query generator for databases | 
+| **[Documentor](https://oam-b.me/Documentor/)** | AI-powered documentation assistant for software |
 | **[FastWrite](https://pypi.org/project/FastWrite/)** | Python module for AI-assisted code documentation and data flow diagram generation, streamlining the analysis of Python codebases and the creation of comprehensive documentation using various AI models. | 🔗 |
 
 
