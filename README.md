@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Oam Bhanushali 👋
 
-<!--
-**Oam11/Oam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Artificial Intelligence & Data Science Student**  
+📍 Mumbai, India  
+📫 [Email](mailto:oamb.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oambhanushali) | [Portfolio](https://oam-b.me) | [GitHub](https://github.com/Oam11)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m passionate about building smart, scalable, and impactful solutions using AI. With a strong academic foundation and hands-on experience in ML, cloud computing, and full-stack development, I strive to make technology more accessible and intelligent.
+
+- 🧪 Currently researching **misinformation mitigation** at the *Society for Data Science*.
+- 📄 Co-author of a research paper accepted at **IEEE TENSYMP 2024**.
+- 🧠 Enjoy exploring AI tools and building personal mini-projects.
+
+---
+
+## ⚙️ Skills
+
+**Languages:**  
+Python, R, C, C++, HTML  
+
+**Libraries & Frameworks:**  
+PyTorch, Scikit-learn, Flask, OpenCV, Hugging Face, LangChain, NLTK, BeautifulSoup, Selenium, asyncio  
+
+**Data Science & Visualization:**  
+NumPy, pandas, Matplotlib, Seaborn  
+
+**AI/ML Techniques:**  
+Retrieval-Augmented Generation (RAG), Fine-tuning, Prompt Engineering  
+
+**Databases:**  
+MongoDB, SQL, SQLite, MySQL Workbench, MariaDB, PostgreSQL  
+
+**Cloud & Deployment:**  
+Microsoft Azure, Google Cloud Platform (GCP), Docker  
+
+**Tools & IDEs:**  
+VS Code, PyCharm, GitHub, Turbo C, Dev C++
+
+---
+
+## 🧩 Interests
+
+- ♟ Chess enthusiast  
+- 🤖 AI tools & open source contributor  
+- 🧪 Always learning & experimenting with new tech
+
+---
