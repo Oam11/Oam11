@@ -16,6 +16,19 @@ I’m passionate about building smart, scalable, and impactful solutions using A
 
 ---
 
+## 🚀 Projects
+
+| Project | Description | Demo |
+|--------|-------------|------|
+| **[AutoML](https://oam-b.me/AutoML/)** | Automated ML platform with dataset insights and modeling | 🔗 |
+| **[InsightDocs](https://oam-b.me/InsightDocs/)** | Document Q&A system for PDFs, Word, and more | 🔗 |
+| **[QueryStream](https://oam-b.me/QueryStream/)** | Smart query generator for databases | 🔗 |
+| **[Documentor](https://oam-b.me/Documentor/)** | AI-powered documentation assistant for software | 🔗 |
+
+
+
+---
+
 ## ⚙️ Skills
 
 **Languages:**  
