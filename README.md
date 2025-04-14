@@ -63,5 +63,5 @@ VS Code, PyCharm, GitHub, Turbo C, Dev C++
 ---
 ### 🔥 Contribution Activity
 
-[![Rishikesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-G-KJSIT&bg_color=1f1f1f&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true)](https://github.com/Oam11)
+[![Rishikesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oam11&bg_color=1f1f1f&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true)](https://github.com/Oam11)
 ---
